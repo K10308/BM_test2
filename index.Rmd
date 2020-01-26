@@ -4,11 +4,6 @@ title: "Index"
 
 Hellow, Website
 
-<<<<<<< HEAD
-Here is a link
-
-=======
->>>>>>> c69755d85d28f3079996181d9fb038fc494c5161
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
