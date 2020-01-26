@@ -1,0 +1,12 @@
+name: "BM_test2"
+output_dir: "docs"
+navbar:
+  title: "BM_test2"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Speed and Distance"
+      href: speed-and-distance.html
+output:
+  html_document:
+    theme: cosmo
