@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "test home"
+      href: index2.html
     - text: "Speed and Distance"
       href: speed-and-distance.html
 output:
