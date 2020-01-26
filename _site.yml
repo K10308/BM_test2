@@ -5,10 +5,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+<<<<<<< HEAD
     - text: "test home"
       href: index2.html
+=======
+>>>>>>> c69755d85d28f3079996181d9fb038fc494c5161
     - text: "Speed and Distance"
       href: speed-and-distance.html
 output:
   html_document:
+<<<<<<< HEAD
     theme: cosmo
+=======
+  
+>>>>>>> c69755d85d28f3079996181d9fb038fc494c5161
